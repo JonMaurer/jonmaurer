@@ -1,7 +1,6 @@
-# Howdy! My name is Jon and I’m a glaciologist and climate scientist pursuing my PhD at The University of Washington. 
+# Howdy! My name is Jon (He/Him) and I’m a glaciologist and climate scientist pursuing my PhD at The University of Washington. 
 
 ## about me
--  pronouns: He/Him
 -  MSc at The University of Maine 
 -  BS in climate science at The University of Maine 
 -  BS in Oceanography at The University of Maine 
