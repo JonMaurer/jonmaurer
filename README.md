@@ -4,13 +4,10 @@
 -  MSc at The University of Maine 
 -  BS in climate science at The University of Maine 
 -  BS in Oceanography at The University of Maine 
--  [Juneau Icefield Research Program](https://juneauicefield.org/) alum
-
 
 ## current projects
 - Mountain glacier mass loss
 - Downstream hydrological impacts
-
 
 ## i use
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
