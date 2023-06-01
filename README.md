@@ -4,8 +4,7 @@
 -  MSc at The University of Maine 
 -  BS in climate science at The University of Maine 
 -  BS in Oceanography at The University of Maine 
--  
--  [Juneau Icefield Research Program](https://juneauicefield.org/) alum
+-  [Juneau Icefield Research Program](https://juneauicefield.org/) alum
 
 
 ## current projects
